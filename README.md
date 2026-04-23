@@ -1,2 +1,2 @@
 # unnamed-package-gamma
-3 dimensional data representation backend for edgar-sec
+COMING SOON! (backend ML data representation for edgar-sec)
